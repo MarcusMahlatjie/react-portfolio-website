@@ -82,7 +82,7 @@ export const Projects = () => {
                   </Nav>
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
                     <Tab.Pane eventKey="first">
-                    
+                    <p>Below are three of my most recent and well built projects. You can click on the images to view the project on GitHub.</p>
                       <Row>
                         {           
                           projects.map((project, index) => {
