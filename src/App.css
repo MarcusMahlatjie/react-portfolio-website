@@ -4,6 +4,15 @@
   text-decoration-color: none;
 }
 
+#downloadables{
+  font-weight: 400;
+  overflow-x: hidden;
+  position: relative;
+  background-color: #121212 !important;
+  color: #fff !important;
+  font-family: 'Centra', sans-serif !important;
+}
+
 #nameTag{
   color: white;
 }
